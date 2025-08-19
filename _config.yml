@@ -1,0 +1,26 @@
+# Configuración para GitHub Pages
+title: Adobe Lightroom Classic SDK Documentation
+description: Documentación completa del SDK de Lightroom Classic para sistemas RAG
+url: "https://[tu-usuario].github.io"
+baseurl: "/lightroom-sdk-docs"
+
+# Configuración de Jekyll
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configuración de navegación
+include:
+  - API Reference/
+  - API Reference/modules/
+
+# Configuración de archivos estáticos
+exclude:
+  - .github/
+  - _config.yml
+  - README.md
