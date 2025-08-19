@@ -1,7 +1,7 @@
 # Configuración para GitHub Pages
 title: Adobe Lightroom Classic SDK Documentation
 description: Documentación completa del SDK de Lightroom Classic para sistemas RAG
-url: "https://[tu-usuario].github.io"
+url: "https://Jovenjr.github.io"
 baseurl: "/lightroom-sdk-docs"
 
 # Configuración de Jekyll
